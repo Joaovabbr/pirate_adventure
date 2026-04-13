@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - "colet\xE1vel"
+  - obstacle
   layers:
   - Default
   - TransparentFX
